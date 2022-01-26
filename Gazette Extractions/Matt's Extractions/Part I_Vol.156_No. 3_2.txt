@@ -1,0 +1,18 @@
+INNOVATION, SCIENCE AND ECONOMIC DEVELOPMENT CANADA
+RADIOCOMMUNICATION ACT
+Notice No. SMSE-003-22 — Release of SRSP-520, issue 2
+
+Notice is hereby given that Innovation, Science and Economic Development Canada has published the following document:
+
+    Standard Radio System Plan SRSP-520, issue 2, Technical Requirements for Fixed and/or Mobile Systems, Including Flexible Use Broadband Systems, in the Band 3450-3650 MHz, which sets out the minimum technical requirements for the efficient use of the band 3450-3650 MHz and applies to all fixed and mobile systems, including flexible use broadband systems, operating in the band. SRSP-520 also imposes measures to address the protection of radio altimeters operating in the frequency band 4200-4400 MHz from harmful interference.
+
+This document is now official and available on the Published documents page of the Spectrum management and telecommunications website.
+Submitting comments
+
+Comments and suggestions for improving this document may be submitted online using the Standard Change Request form.
+
+November 18, 2021
+
+Martin Proulx
+Director General
+Engineering, Planning and Standards Branch
