@@ -24,3 +24,6 @@ A really great starting point for this material is done on Github by user Lauren
 We'll be doing our first attempts for this project using his methodology and attempting a solution with TextRank. Should that not work, another common algorithm is seq2seq but this is a bit more technical and requires knowledge of RNN's so we'll save it as a backup for now.
 
 To prepare for the implementation for our next meeting, please move about 10 Canada Gazette sections into a text file and dump them into the created folder "Gazette Extractions". Gazette sections aren't the whole thing, so no need to freak out. They're just the smaller pieces of into separated by headings. See the folder for some examples that I moved in for now. From there, we'll discuss next steps.
+
+# Feb 2, 2022
+We'll be converting the text files in the extractions folde rinto a readable CSV. CSV's are the base format for most, if not all, ML datasets. We'll be creating our CSV from Google Sheets, which is n the running meeting notes google doc. From here, we'll bigin the actual coding scrums, and have created either a Python Jupyter Notebook or raw Python file. Things are moving along!
