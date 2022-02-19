@@ -27,3 +27,8 @@ To prepare for the implementation for our next meeting, please move about 10 Can
 
 # Feb 2, 2022
 We'll be converting the text files in the extractions folde rinto a readable CSV. CSV's are the base format for most, if not all, ML datasets. We'll be creating our CSV from Google Sheets, which is n the running meeting notes google doc. From here, we'll bigin the actual coding scrums, and have created either a Python Jupyter Notebook or raw Python file. Things are moving along!
+
+# Feb 19, 2022
+We'll be moving along with the following demo. To really sum up what's happening in this demo, they basically use TextRank and its predecessor, PageRank, to sort through tennis articles. They create a data point for each sentence, and analyze various data points. Take a look through this guide, as we'll be replicating a similar thing. The main change we'll be making is because Canada Gazette posts vary in length, we want to make the number of sentences for the summary dynamic rather than the 5 they use, so the main task over reading week will be to explore how we can potentially create a dynamic anlysis of sentences rather than just have a static declaration.
+
+Link: https://www.analyticsvidhya.com/blog/2018/11/introduction-text-summarization-textrank-python/
