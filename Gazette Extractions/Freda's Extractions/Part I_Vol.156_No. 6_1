@@ -1,0 +1,94 @@
+DEPARTMENT OF TRANSPORT
+RAILWAY SAFETY ACT
+Notice of intent for the implementation of enhanced train control in Canada
+Notice is hereby given that Transport Canada intends to implement enhanced train control (ETC) in Canada to add an important layer of safety to Canada’s railway operations.
+
+ETC technologies enhance safety for passenger and freight trains by preventing certain railway accidents caused by human error. ETC technologies act as a driver assist mechanism, alerting the train crew to danger and, at their highest functionality, slowing or stopping a train to prevent a collision or derailment.
+
+ETC will make Canada’s rail transportation system safer by preventing certain rare, but potentially high consequence, railway accidents. ETC supports crews with a wide range of innovative safety solutions, from assisting in recognizing and following signals to automatically reducing speed to prevent a collision. ETC will enable railways to work together, share tracks and safely move people and freight faster through high-volume corridors. ETC will enable real-time information sharing between trains, rail wayside (trackside) devices, and back-office software applications for speed restrictions, train location and speed, and the state of signal and switch devices.
+
+To advance the use of ETC in Canada, notice is hereby given that Transport Canada is implementing policy direction that may require railway companies to develop and adhere to new and/or amended rules respecting safe railway operations to help ensure that railway signals are consistently recognized and followed. In the interest of maintaining the interoperability of rail operations, rules may also be established or amended to provide cohesive operational principles aligned with the functionalities of ETC Systems.
+
+The vision about ETC may be articulated as follows:
+
+ETC will add a layer of safety to Canada’s already safe rail transportation system. ETC will support crews by automatically stopping trains in the case of human error and preventing a possible collision or derailment. ETC will enable railways to work together, share tracks and safely move people and freight faster through high-volume corridors in a cohesive system.
+To realize this objective, Transport Canada is committed to working with all stakeholders, including railways, shippers, labour organizations, and the broader public sector. Through these efforts, Canada’s rail transportation network work will be better, faster and safer for passengers and shippers alike.
+Transport Canada is communicating to Canadians and interested stakeholders its current policy direction with respect to this important initiative. The information provided in this notice of intent is only a representation of Transport Canada’s policy direction and should not be interpreted as proposed regulations.
+
+Background
+Canada’s national rail network is the third largest in the world, with a total track length in excess of 40 000 km. The rail network primarily transports freight; however, passenger travel constitutes a growing portion of rail activities. Severe train safety incidences and collisions for passenger travel and freight movement are rare events, but when they do occur, they have the potential to result in injuries and fatalities, along with environmental and property damage.
+
+The current method of controlling train movements in Canada is “rule-based,” governed by the Canadian Rail Operating Rules, and with train movements managed and supervised by rail traffic controllers. Low density corridors follow occupancy control system rules with verbal clearances and other instructions issued to train crews who are responsible for complying with these instructions. Centralized traffic control is used on higher density corridors, with wayside signals indicating speed limits and clearances, again with train crews responsible for observing and correctly responding to these wayside signals.
+
+Currently, there is no regulatory requirement for technologies to be installed on board locomotives to protect against operation above the permitted speed or to ensure a wayside signal indication is followed. Reliance is placed solely on train crews. Since the system is “rule-based,” there have been occasions when unintended rule violations have occurred because of a temporary lapse in situational awareness and resulted in derailments. It is this potential for human error that ETC systems are primarily intended to address. The core objectives of ETC systems in Canada will be to prevent
+
+train-to-train collisions;
+derailments caused by excessive train speed;
+unauthorized entry of a train into a work zone; and
+train movement through a misaligned track switch leading a train to be on the wrong track.
+The safety benefits of ETC are widely recognized. Following railway signal indications is a Transportation Safety Board (TSB) Watchlist item and implementing physical fail-safe train controls has been a long-standing recommendation of the TSB.footnote17 Furthermore, in 2018, the Rail Safety Act Review Panel recommended that Government and industry develop, in partnership, a Canadian approach to foster the implementation of ETC in a staged and cost-effective manner.
+
+Interoperability
+Canada’s rail network is an “open” network, meaning that compatible trains owned and operated by one railway company can operate in rail corridors that it owns and maintains, as well as in corridors owned and maintained by any other railway company. In North American, Canadian companies operating in the United States have had to comply with the 2008 Congressional mandate to implement positive train control prior to the December 31, 2020, statutory deadline set forth by Congress for implementing positive train control. Any ETC technology solution adopted in Canada will have to preserve interoperability among Canadian operators and compatibility with positive train control.
+
+Supporting this “interoperability” requirement is a critical factor in developing and deploying ETC in Canada. The need for interoperability will require standards for equipment installed on locomotives and in the rail corridor as well as protocols for ETC data communications. Interoperable train control solutions in Europe and the United States have proven to be complex, with significant effort required to develop the necessary standards, specifications and designs. While Canada can certainly benefit from work that has taken place in other jurisdictions, developing an interoperable train control solution for Canada will be equally challenging, as there is no simple “off-the-shelf” solution.
+
+ETC system functionality
+Transport Canada retained the Canadian Rail Research Laboratory (CaRRL) of the University of Alberta to conduct an in-depth review of the potential impact that various train control approaches could have had on past occurrences on the Canadian rail network, and to study the feasibility of implementing various approaches to train control in Canada. The key findings of the CaRRL review were published on Transport Canada’s website in May 2018. The CaRRL report proposed different “levels” of ETC functionality falling into two categories: Driver Advisory Systems and Automatic Train Protection Systems. These two categories of ETC systems represent different grades of functionality.
+
+The Driver Advisory Systems would provide a variety of information and alerts to train crews to enhance their situational awareness. Train crews would still be responsible for rule compliance, so such systems may reduce, but not eliminate, the probability of human error. Historically, these types of crew alert systems have been used to optimize fuel usage or to improve compliance with an operating timetable and would have to be modified to perform this ETC function.
+The Automatic Train Protection System would also have Driver Advisory Systems’ capabilities, providing information and alerts to a train crew, but in addition would provide automatic (“fail-safe”) enforcement by applying the train brakes if a significant safety risk were imminent. Such systems are specifically designed to prevent derailments caused by excessive train speed, train collisions from “STOP” signal violations, and derailments as a result of operation over misaligned track switches. However, Automatic Train Protection Systems would only be fully operational for safety-critical functions in corridors that are equipped to support such systems.
+Both systems can be implemented as an “overlay” on the existing centralized traffic control and occupancy control methods of train control. Both could offer other operational business case benefits to railway companies, in addition to safety benefits.
+
+Risk-based assessment
+Significant progress toward ETC implementation in Canada has been made based on foundational work done by Government, industry, and academia under the auspices of the Advisory Council on Railway Safety (ACRS). In a 2016 study, ACRS concluded that a targeted, risk-based, corridor-specific implementation of train control technologies would be the best option for Canada. The report is available on Transport Canada’s website.
+
+Transport Canada’s policy direction supports this recommendation for Canada’s ETC approach. A corridor-specific implementation offers the potential to be more cost-effective, as investments in safety improvements on a given corridor can be tailored to the actual safety risk in that corridor. This approach enables companies to focus their resources on the higher risk corridors. The higher the risk level in a given corridor, the higher the likely complexity of the train control technical solution for that corridor. The determination and assessment of that risk should be a rigorous undertaking by rail operators. It is understood that solutions will have to be found to maintain interoperability requirements while having corridor-specific ETC. Finding such solutions will be a primary challenge in developing and implementing ETC on Canada’s rail network.
+
+The Canadian rail industry is already supporting ETC by progressing risk-prioritization criteria and a methodology to rank corridors with respect to risk. Risk assessments would consider both the likelihood of preventable derailments and collisions in each corridor (frequency of occurrence), as well as the potential consequences of such occurrences, with consideration of factors such as the corridor characteristics, passenger and freight traffic, dangerous goods. Any assessment of the likelihood of preventable derailments and collisions will not be based solely on historical data, but will also include a probability assessment that looks ahead and takes into account, among other things, potential changes to traffic patterns in a given corridor. Given this risk assessment methodology must be robust and consistently applied across Canada by all regulated railways, it will be necessary for the guiding principles to be set out in the regulatory framework and subject to Transport Canada approval.
+
+These corridor-specific risk assessments will establish
+
+The safety risks in each corridor (i.e. the risk of train collisions and derailments as a consequence of train crew human errors);
+The appropriate ETC technology solutions in each corridor to mitigate these safety risks; and
+The ranking of corridors in priority for implementing the selected technology solutions.
+Highest risk corridors would be equipped with Automatic Train Protection equipment. In these corridors
+
+Both the locomotives and the corridors would be equipped to support this level of functionality.
+Only those trains equipped to support Automatic Train Protection would be permitted to operate in these corridors. All other trains would be prevented by technology from operating in these corridors.
+Railways may choose to implement Automatic Train Protection technology compatible with what has been installed to provide positive train control in the United States, given both are designed to provide fail-safe operation.
+Lower risk corridors would be equipped with Driver Advisory System equipment. In these corridors
+
+Crews would be assisted by an on-board display of operating authorities with a warning when they are approaching the limit of operating authority (e.g. their speed, a stop signal, a work zone).
+The level of enhanced protection for trains would be determined by capabilities of equipment installed on the locomotive, and information provided from any ETC equipment installed in the corridor.
+If selected wayside equipment is installed, the system can warn the crew of additional dangers, such as switches in the wrong position.
+Very low risk corridors would retain conventional train control approaches. In these corridors
+
+It may not be feasible or warranted to equip the locomotives and the corridor with ETC equipment.
+Adherence to traditional administrative rules by crews would provide protection.
+Communication technologies
+Industry is also working towards establishing minimum ETC system functionalities, and communications standards to ensure interoperability among railways. Supporting ETC functionality across ETC-equipped corridors will require secure and reliable communication between railway back-office equipment (and, where applicable, corridor-specific wayside equipment) and all ETC-equipped trains operating in the various corridors. In addition, the greater the ETC system capability being implemented in a corridor, the greater the need for communication systems to transmit increasing amounts of information assessing a train’s safety status and related information quickly and accurately. A variety of solutions may be needed to establish communications systems for data and voice exchanges.
+
+To support interoperability across Canada’s rail network, new communication system standards and protocols may need to be developed. This would include consideration of bandwidth requirements (volume of data to be communicated), message latency (time to communicate a given message), and network reliability and availability (time required to establish a connection; frequency of lost connections; susceptibility to interference, etc.). This communication system network would need to be implemented in parallel with equipping the various corridors and the trains and locomotives operating in those corridors.
+
+Designing and delivering corridor-specific, locomotive-specific, and communications network-specific ETC equipment will require the development of technical specifications and standards for Driver Advisory Systems and the Automatic Train Protection Systems to address establishing system-level requirements, operating requirements, and performance requirements. A mechanism for managing the evolution of specifications, and standards as new functionalities are introduced and/or to correct specification errors, will also have to be developed.
+
+Way forward
+Establishing an ETC system for Canadian railways is a priority for Transport Canada, and is consistent with Transportation 2030, Transport Canada’s strategic plan for a safe, secure, green, innovative and integrated transportation system that supports trade and economic growth, a cleaner environment and the well-being of Canada’s middle class.
+
+To build on the efforts to develop ETC in Canada that have already been made, additional industry and government leadership and co-ordination will be required in areas, such as
+
+Stakeholders will need to consider the overall management, governance and organizational structures for implementing ETC;
+Technology suppliers will play an important role in the development of the ETC implementation approach, as they will be critical for successful implementation and may be a source for innovative ETC solutions;
+Systems integration management will be required from a technical, operational, and regulatory perspective; and
+Revisions to the regulatory framework may be required, along with the maintenance of ETC specifications and standards.
+The successful implementation of ETC requires a long-term, coordinated, whole-of-government approach. Transport Canada will work with the following federal government partners and others to bring ETC to Canada:
+
+Innovation, Science and Economic Development Canada (ISED), for wireless communications and for promotion of innovative technology solutions;
+Standards Council of Canada (SCC-CCN), to facilitate development a technical specification for interoperable communications;
+Canadian Radio-television and Telecommunications Commission (CRTC), to allow industry to access frequencies usually used by wireless services providers;
+Public Safety Canada (PS), for ensuring secure telecommunications for effective roll-out of ETC.
+Transport Canada intends to move forward with amendments to the regulatory framework to ensure the safety benefits of ETC are realized in Canada. As a starting point, Transport Canada has entered a Memorandum of Understanding with the Standards Council of Canada to develop a national technical specification on interoperability. In November 2021, the SCC-CCN issued a request for proposals for the development of a national technical specification for interoperability. This technical specification will be an essential first step for ETC implementation, ensuring that critical information, such as train position and train speed, can be communicated reliably and securely between railways, notwithstanding the chosen train control technology.
+
+Comments
+Your views are critical to achieve the vision for ETC implementation in Canada. Questions and comments regarding this notice of intent can be submitted until April 30, 2022, and may be directed to the Director, Regulatory Affairs, Rail Safety, Transport Canada, ASRR, Enterprise Building, 427 Laurier Avenue West, 14th Floor, Ottawa, Ontario K1A 0N5, TC.RailSafetyConsultations- ConsultationSecuriteFerroviaire.TC@tc.gc.ca.
