@@ -32,3 +32,8 @@ We'll be converting the text files in the extractions folde rinto a readable CSV
 We'll be moving along with the following demo. To really sum up what's happening in this demo, they basically use TextRank and its predecessor, PageRank, to sort through tennis articles. They create a data point for each sentence, and analyze various data points. Take a look through this guide, as we'll be replicating a similar thing. The main change we'll be making is because Canada Gazette posts vary in length, we want to make the number of sentences for the summary dynamic rather than the 5 they use, so the main task over reading week will be to explore how we can potentially create a dynamic anlysis of sentences rather than just have a static declaration.
 
 Link: https://www.analyticsvidhya.com/blog/2018/11/introduction-text-summarization-textrank-python/
+
+#Mar 23, 2022
+The major issue that the project is facing is the abnormal sentence structure of legal documents. The sentences are typically written with extra uses of punctuation, returns, and weird spacing. This presents issues for typical tokenizers as these tend to be built for normal sentences in enviornments like news articles, books, papers, etc. As such, this obviously causes errors in the resulting tokenized sentences.
+
+The plan is to observe how casual tokeizers implement these senetnces and how they return punctuation, and then try a myriad of niche user-created PyTorch/Tensorflow legal-specific BERT tokenizers. These will be compared against one another, mixed, and ultimately we will decide the best possible match, then observe its performance within typical summarizers like TextRank, and observe both extractive and abstractive summarizers.
