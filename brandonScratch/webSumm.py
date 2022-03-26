@@ -12,6 +12,16 @@ import networkx
 from sklearn.metrics.pairwise import cosine_similarity
 from nltk.corpus import stopwords
 import networkx as nx
+""" from transformers import AutoTokenizer, AutoModel
+
+tokenizer = AutoTokenizer.from_pretrained("nlpaueb/legal-bert-base-uncased")
+model = AutoModel.from_pretrained("nlpaueb/legal-bert-base-uncased")
+ """
+COEF = 1
+MIN_FREQ = 5000
+FRACTION_OF_SENTENCES = 0.1
+CONSTANT_SENTANCES = 0
+# number of sentences you get = FRACTION * (Total # of sentences) + CONSTANT
 
 stop_words = stopwords.words('english')
 word_embeddings = {}
@@ -66,7 +76,7 @@ def summ(text):
     sentence_vectors = []
     for i in clean_sentences:
         if len(i) != 0:
-            v = weighted_sum(i, 1, 5000) # change this to get weighted words
+            v = weighted_sum(i, COEF, MIN_FREQ) # change this to get weighted words
         else:
             v = np.zeros((100,))
         sentence_vectors.append(v)
@@ -83,8 +93,7 @@ def summ(text):
     scores = nx.pagerank(nx_graph)
 
     ranked_sentences = sorted(((scores[i],s) for i,s in enumerate(sentences)), reverse=True)
-    # n = len(sentences)//10+5
-    n = len(sentences)//10
+    n = int(len(sentences)*FRACTION_OF_SENTENCES) + CONSTANT_SENTANCES
     lower_score = ranked_sentences[n][0]
 
     output = []
