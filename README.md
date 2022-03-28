@@ -33,7 +33,7 @@ We'll be moving along with the following demo. To really sum up what's happening
 
 Link: https://www.analyticsvidhya.com/blog/2018/11/introduction-text-summarization-textrank-python/
 
-#Mar 23, 2022
+# Mar 23, 2022
 The major issue that the project is facing is the abnormal sentence structure of legal documents. The sentences are typically written with extra uses of punctuation, returns, and weird spacing. This presents issues for typical tokenizers as these tend to be built for normal sentences in enviornments like news articles, books, papers, etc. As such, this obviously causes errors in the resulting tokenized sentences.
 
 The plan is to observe how casual tokeizers implement these senetnces and how they return punctuation, and then try a myriad of niche user-created PyTorch/Tensorflow legal-specific BERT tokenizers. These will be compared against one another, mixed, and ultimately we will decide the best possible match, then observe its performance within typical summarizers like TextRank, and observe both extractive and abstractive summarizers.
