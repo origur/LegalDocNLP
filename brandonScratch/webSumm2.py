@@ -47,7 +47,7 @@ def clean_text(text):
     new_text = re.sub('(?<![\.\!\?\n])\n', '.\n', text)
     new_text = re.sub('(?<=[A-Za-z])\-\s(?=[a-z])', '', new_text)
     new_text = re.sub('(?<=([Nn][Oo]))\.\s(?=[0-9])', ' ', new_text)
-    new_text = re.sub('\([A-Za-z]\)\s', '', new_text)
+    new_text = re.sub('(?<=\n)\(.*?\)\s', '', new_text)
     return new_text
 
 def weighted_sum(i, coed, max_words):
@@ -104,7 +104,7 @@ def summ(text):
     for i, s in enumerate(sentences):
         if scores[i] >= lower_score:
             output.append(s)
-    return "\n".join(output)
+    return "\n\n".join(output)
 
 
 def summerizer():
